@@ -20,6 +20,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." so I've been sharing te
 <p align="left">
 <a href="https://rmartins.cloud/"><img alt="Website" src="https://img.shields.io/badge/Website-rmartins.cloud-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ricmmartins/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ricardo%20Martins-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/ricmmartins/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Ricardo%20Martins-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:rmmartins@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-rmmartins@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
