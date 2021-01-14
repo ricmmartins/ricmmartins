@@ -3,13 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-- 🤔 &nbsp; My background is in infrastructure and in opensource space, where I've being working in the last fifteen years. As a team member I'm someone with a multi-cultural experience and diverse expertise working with customers from different industries (telco, manufacturing, retail, finance, oil and gas). Since 2015 I have been in Microsoft building strong skills as Cloud Solution Architect, Technical Trainer and Systems Engineer.
+- 🤔 &nbsp; I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought to me a multi-cultural and diverse expertise working with customers and companies from different industries (telco, manufacturing, retail, finance, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles as Architect, Trainer and Engineer.
 
-- 💼 &nbsp; Currenlty I'm part of Azure Fasttrack Team working with infrastructure projects.
+- 💼 &nbsp; Currenlty I'm part of Azure Fasttrack Team working with Cloud Infrastructure projects.
 
 - 🌱 &nbsp; I’ve a special interest in Cloud Technologies, DevOps, CloudOps, Reliability Engineering, Infrastrucure as a Code and Content Development.
 
-- 💬 &nbsp; I’m also a huge passionate by communities, tech talks and an evangelist of the DevOps culture because I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way.
+- 💬 &nbsp; I’m also a huge passionate by communities, tech talks and an evangelist of the Cloud and DevOps culture. I believe that we learn when we share, so I've been a "knowledge enabler". As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way. 
 
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
 
