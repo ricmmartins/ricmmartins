@@ -11,7 +11,7 @@
 
 💬 &nbsp; I’m also a huge passionate by communities, tech talks and an evangelist of the Cloud and DevOps culture. As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way. 
 
-I truly  believe in the "We Learn. We Share. We Thrive." so I've been sharing technical content in an high actively manner. This is something I love to do, I'm a a "knowledge enabler" 
+I truly  believe in the "We Learn. We Share. We Thrive." so I've been sharing technical content in an high actively manner. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and Azure Evangelism.
 
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
 
