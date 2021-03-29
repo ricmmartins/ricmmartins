@@ -10,7 +10,7 @@ I have extensive experience in linux and opensource implementations, infrastruct
 
 💼 &nbsp; Currenlty I'm part of Azure Fasttrack Team working with Cloud Infrastructure projects.
 
-🌱 &nbsp; I’ve a special interest in Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastrucure as a Code and Content Development.
+🌱 &nbsp; Special interests: Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastrucure as a Code and Content Development.
 
 💬 &nbsp; I’m also a huge passionate by communities, tech talks and an evangelist of the Cloud and DevOps culture. As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way. 
 
