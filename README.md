@@ -16,6 +16,21 @@ I'm experienced in linux and opensource implementations, infrastructure, cloud c
 
 I truly  believe in the "We Learn. We Share. We Thrive." so I've been sharing technical content in an high actively manner. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and Azure Evangelism. I love share with community whenever I build something that can help others.
 
+📕 Here are a list of my most recent writings
+
+* [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
+* [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
+* [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
+* [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
+* [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
+* [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
+* [How to use the Azure Automation to run scripts inside a Linux Virtual Machine](https://github.com/ricmmartins/azure-automation)
+* [Being alerted about creation or updates of Virtual Machines in your Azure Subscription](https://github.com/ricmmartins/azure-alerts)
+* [How to create a Linux VM on Azure using CLI](https://github.com/ricmmartins/training/tree/master/demo/az-cli)
+* [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
+* [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
+
+
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
 
 <h3> 🤝🏻 Connect with Me </h3>
