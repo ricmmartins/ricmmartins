@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-🤔 &nbsp; I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought to me a multi-cultural and diverse expertise working with customers and companies from different industries (telco, manufacturing, retail, finance, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles as Architect, Trainer and Engineer. I have been educating, designing, training and building cloud solutions for a diverse and challenging set of enterprise customers.
+⏩ &nbsp; I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought to me a multi-cultural and diverse expertise working with customers and companies from different industries (telco, manufacturing, retail, finance, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles as Architect, Trainer and Engineer. I have been educating, designing, training and building cloud solutions for a diverse and challenging set of enterprise customers.
 
 I'm experienced in linux and opensource implementations, infrastructure, cloud computing, networking, fault tolerance mechanisms, high availability, security and performance, cloud applications, n-tier architectures and distributed systems architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation and testing. Has a keen ability on diagnosis, deployment, debugging and adaptation (reconfiguration) of systems.
 
