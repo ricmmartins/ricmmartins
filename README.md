@@ -7,16 +7,15 @@
 
 I'm experienced in linux and opensource implementations, infrastructure, cloud computing, networking, fault tolerance mechanisms, high availability, security and performance, cloud applications, n-tier architectures and distributed systems architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation and testing. Has a keen ability on diagnosis, deployment, debugging and adaptation (reconfiguration) of systems.
 
-
 💼 &nbsp; Currenlty I'm part of Azure Fasttrack Team working with Cloud Infrastructure projects.
 
-🌱 &nbsp; Special interests: Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastrucure as a Code and Content Development.
+👍&nbsp; Special interests: Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastrucure as a Code and Content Development.
 
 💬 &nbsp; I’m also a huge passionate by communities, tech talks and an evangelist of the Cloud and DevOps culture. As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way. 
 
 I truly  believe in the "We Learn. We Share. We Thrive." so I've been sharing technical content in an high actively manner. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and Azure Evangelism. I love share with community whenever I build something that can help others.
 
-📕 Here are a list of my most recent writings
+☑️ Here are a list of my most recent writings:
 
 * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
 * [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
