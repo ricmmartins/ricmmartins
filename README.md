@@ -1,4 +1,4 @@
-<h2>Hi there 👋! I'm Ricardo martins.</h2>
+<h2>Hi there 👋! I'm Ricardo Martins.</h2>
 
 <h3> About Me </h3>
 
