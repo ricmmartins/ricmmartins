@@ -28,7 +28,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 * [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
 * [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
 
-✔️ You can see a list of all my publishings here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
+✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
 
 
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
