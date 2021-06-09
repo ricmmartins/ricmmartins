@@ -16,6 +16,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 
 ☑️ Here is a list my most recent writings
 
+* [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
 * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
 * [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
 * [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
