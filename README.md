@@ -16,6 +16,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 
 ☑️ Here is a list my most recent writings
 
+* [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
 * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
