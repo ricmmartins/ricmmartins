@@ -16,6 +16,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 
 ☑️ Here is a list my most recent writings
 
+* [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
 * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
@@ -25,11 +26,6 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 * [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
 * [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
 * [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
-* [How to use the Azure Automation to run scripts inside a Linux Virtual Machine](https://github.com/ricmmartins/azure-automation)
-* [Being alerted about creation or updates of Virtual Machines in your Azure Subscription](https://github.com/ricmmartins/azure-alerts)
-* [How to create a Linux VM on Azure using CLI](https://github.com/ricmmartins/training/tree/master/demo/az-cli)
-* [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
-* [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
 
 ✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
 
