@@ -1,3 +1,5 @@
+[![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR)
+
 <h2>Hi there 👋!</h2>
 
 <h3>I'm Ricardo Martins and here I'll talk in a little about me.</h3>
