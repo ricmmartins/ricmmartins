@@ -34,6 +34,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 
 ✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
 
+<h2>⭐ GitHub Stats</h2>
 
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
 
