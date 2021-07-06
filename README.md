@@ -19,7 +19,7 @@ I'm experienced in linux and opensource implementations, infrastructure, cloud c
 
 I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing technical content in an high actively manner. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and Azure Evangelism. I love share with community whenever I build something that can help others.
 
-☑️ Here is a list my most recent writings
+<h2>☑️ Here is a list my most recent writings</h2>
 
 * [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
 * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
