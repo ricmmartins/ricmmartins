@@ -1,5 +1,8 @@
 [![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/ricmmartins?style=social)
+
 <h2>Hi there 👋!</h2>
 
 <h3>I'm Ricardo Martins and here I'll talk in a little about me.</h3>
