@@ -38,7 +38,7 @@ I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing te
 
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h2> 🤝🏻 Connect with Me </h2>
 
 <p align="left">
 <a href="https://rmartins.cloud/"><img alt="Website" src="https://img.shields.io/badge/Website-rmartins.cloud-blue?style=flat-square&logo=google-chrome"></a>
