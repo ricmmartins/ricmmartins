@@ -17,7 +17,7 @@ I'm experienced in linux and opensource implementations, infrastructure, cloud c
 
 💬 I’m also a huge passionate by communities, tech talks and an evangelist of the Cloud and DevOps culture. As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way. 
 
-I truly  believe in the "We Learn. We Share. We Thrive." So I've been sharing technical content in an high actively manner. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and Azure Evangelism. I love share with community whenever I build something that can help others.
+I'm someone passionate about building technical education that helps people advance in their careers. Then I truly believe in the "We Learn. We Share. We Thrive." So I've been creating and sharing technical content actively. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and tech evangelism. I love share with community whenever I build something that can help others.
 
 <h2>☑️ Here is a list my most recent writings</h2>
 
