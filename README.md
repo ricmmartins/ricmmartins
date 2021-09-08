@@ -19,8 +19,9 @@ I'm experienced in linux and opensource implementations, infrastructure, cloud c
 
 I'm someone passionate about building technical education that helps people advance in their careers. Then I truly believe in the "We Learn. We Share. We Thrive." So I've been creating and sharing technical content actively. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and tech evangelism. I love share with community whenever I build something that can help others.
 
-<h2>☑️ Here is a list my most recent writings</h2>
+<h2>☑️ Here is a list my 10 most recent writings</h2>
 
+* [Introduction to Azure Advisor - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
 * [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
 * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
@@ -30,7 +31,6 @@ I'm someone passionate about building technical education that helps people adva
 * [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
 * [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
 * [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
-* [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
 
 ✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
 
