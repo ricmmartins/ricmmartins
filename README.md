@@ -21,6 +21,7 @@ I'm someone passionate about building technical education that helps people adva
 
 <h2>☑️ Here is a list my 10 most recent writings</h2>
 
+* [Study guide for Azure Foundamentals Certification (AZ-900) - English version](https://github.com/ricmmartins/study-guide-az900)
 * [Study guide for Azure Foundamentals Certification (AZ-900) - In Brazilian Portuguese](https://aka.ms/guia-az900)
 * [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
 * [Intro to Azure Policy - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
