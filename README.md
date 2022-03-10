@@ -6,7 +6,6 @@
 <h2>Hi there! 👋</h2>
 
 <h3>I'm Ricardo Martins and here I'll talk in a little about me.</h3>
-<img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
 💻 I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought to me a multi-cultural and diverse expertise working with customers and companies from different industries (telco, media, retail, education, media, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles as Architect, Trainer and Engineer. I have been educating, designing, training and building cloud solutions for a diverse and challenging set of enterprise customers.
 
@@ -21,6 +20,7 @@ I'm experienced in linux and opensource implementations, infrastructure, cloud c
 I'm someone passionate about building technical education that helps people advance in their careers. Then I truly believe in the "We Learn. We Share. We Thrive." So I've been creating and sharing technical content actively. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and tech evangelism. I love share with community whenever I build something that can help others.
 
 <h2>☑️ Here is a list my 10 most recent writings</h2>
+<img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
 * [Study guide for Azure Foundamentals Certification (AZ-900) - English version](https://github.com/ricmmartins/study-guide-az900)
 * [Study guide for Azure Foundamentals Certification (AZ-900) - In Brazilian Portuguese](https://aka.ms/guia-az900)
