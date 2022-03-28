@@ -22,8 +22,8 @@ I'm someone passionate about building technical education that helps people adva
 <h2>☑️ Here is a list my 10 most recent writings</h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
+* [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
 * [Study guide for Azure Foundamentals Certification (AZ-900) - English version](https://github.com/ricmmartins/study-guide-az900)
-* [Study guide for Azure Foundamentals Certification (AZ-900) - In Brazilian Portuguese](https://aka.ms/guia-az900)
 * [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
 * [Intro to Azure Policy - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
 * [Intro to Azure Service Health - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
@@ -32,10 +32,7 @@ I'm someone passionate about building technical education that helps people adva
 * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
-* [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
-* [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
-* [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
-* [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
+
 
 ✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
 
