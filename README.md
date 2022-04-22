@@ -22,6 +22,7 @@ I'm someone passionate about building technical education that helps people adva
 <h2>☑️ Here is a list my 10 most recent writings</h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
+* [Linux Hackathon](https://aka.ms/linuxhackathon)
 * [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
 * [Study guide for Azure Foundamentals Certification (AZ-900) - English version](https://github.com/ricmmartins/study-guide-az900)
 * [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
@@ -31,7 +32,6 @@ I'm someone passionate about building technical education that helps people adva
 * [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
 * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
-* [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
 
 
 ✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
