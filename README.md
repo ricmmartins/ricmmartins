@@ -7,17 +7,17 @@
 
 <h3>I'm Ricardo Martins and here I'll talk in a little about me.</h3>
 
-💻 I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought to me a multi-cultural and diverse expertise working with customers and companies from different industries (telco, media, retail, education, media, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles as Architect, Trainer and Engineer. I have been educating, designing, training and building cloud solutions for a diverse and challenging set of enterprise customers.
+💻 I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought me multi-cultural and diverse expertise in working with customers and companies from different industries (telco, media, retail, education, media, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles like Architect, Trainer, and Engineer. I have been educating, designing, training, and building cloud solutions for a diverse and challenging set of enterprise customers.
 
-I'm experienced in linux and opensource implementations, infrastructure, cloud computing, networking, fault tolerance mechanisms, high availability, n-tier architectures and distributed systems architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation and testing. Ability on diagnosis, deployment, debugging and adaptation (reconfiguration) of systems.
+I'm experienced in Linux and open-source implementations, infrastructure, cloud computing, networking, fault tolerance mechanisms, high availability, n-tier architectures, and distributed systems architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation, and testing. Ability to diagnose, deploy, debug, and adapt (reconfiguration) of systems.
 
-💼 Currenlty I'm part of Azure Fasttrack Engineering Team working with Cloud Infrastructure projects.
+💼 Currently I'm part of the Azure Fasttrack Engineering Team working with Cloud Infrastructure projects.
 
-👍 Special interests: Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastrucure as a Code and Content Development.
+👍 Special interests: Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastructure as a Code, and Content Development.
 
-💬 I’m also a huge passionate by communities, tech talks and an evangelist of the Cloud and DevOps culture. As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way. 
+💬 I’m also a huge passionate about communities, tech talks, and an evangelist of the Cloud and DevOps culture. As a former systems engineer, I understand that this is the path we should all pursue, being closer and closer to software development, not necessarily as a developer, but as a person of infrastructure who knows what a developer really needs and the ability to deliver it in a simple, autonomous and fast way.
 
-I'm someone passionate about building technical education that helps people advance in their careers. Then I truly believe in the "We Learn. We Share. We Thrive." So I've been creating and sharing technical content actively. I like to be known for be someone who unblock the potential from others, specially through knowledge sharing and tech evangelism. I love share with community whenever I build something that can help others.
+I'm someone passionate about building technical education that helps people advance in their careers. Then I truly believe in the "We Learn. We Share. We Thrive." So I've been creating and sharing technical content actively. I like to be known for being someone who unblocks the potential of others, especially through knowledge sharing and tech evangelism. I love to share with the community whenever I build something that can help others.
 
 <h2>☑️ Here is a list my 10 most recent writings/activitites</h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
