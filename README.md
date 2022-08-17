@@ -22,6 +22,7 @@ I'm someone passionate about building technical education that helps people adva
 <h2>☑️ Here is a list my 10 most recent writings/activitites</h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
+* [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
 * [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 * [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
 * [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
