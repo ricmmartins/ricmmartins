@@ -9,7 +9,7 @@
 
 💻 I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought me multi-cultural and diverse expertise in working with customers and companies from different industries (telco, media, retail, education, media, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles like Architect, Trainer, and Engineer. I have been educating, designing, training, and building cloud solutions for a diverse and challenging set of enterprise customers.
 
-I'm experienced in Linux and open-source implementations, infrastructure, cloud computing, networking, fault tolerance mechanisms, high availability, n-tier architectures, and distributed systems architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation, and testing. Ability to diagnose, deploy, debug, and adapt (reconfiguration) of systems.
+I'm experienced in Linux and open-source implementations, infrastructure, cloud computing, networking, high availability and n-tier architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation, and testing. Ability to diagnose, deploy, debug, and adapt (reconfiguration) of systems.
 
 💼 Currently I'm part of the Azure Fasttrack Engineering Team working with Cloud Infrastructure projects.
 
