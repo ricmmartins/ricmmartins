@@ -25,7 +25,6 @@ I'm someone passionate about building technical education that helps people adva
 * [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
 * [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 * [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
-* [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
 * [Study guide for Azure Foundamentals Certification (AZ-900) - English version](https://github.com/ricmmartins/study-guide-az900)
 * [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
 * [Intro to Azure Policy - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
