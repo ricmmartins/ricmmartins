@@ -7,9 +7,9 @@
 
 <h3>I'm Ricardo Martins and here I'll talk in a little about me.</h3>
 
-💻 I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012. My experience brought me multi-cultural and diverse expertise in working with customers and companies from different industries (telco, media, retail, education, media, oil and gas). Since 2015 I've joined Microsoft where I'm building strong skills in different roles like Architect, Trainer, and Engineer. I have been educating, designing, training, and building cloud solutions for a diverse and challenging set of enterprise customers.
+💻 I've been working with IT Infrastructure since 2003 and with Cloud Solutions since 2012 in multiple companies, from startups to big enterprises. My experience brought me multi-cultural and diverse expertise in working with customers and companies from different industries (telco, media, retail, education, media, oil and gas). In 2015 I've joined Microsoft where I built strong skills in different roles like Cloud Architect, Technical Trainer, and Infrastructure Engineer. After awesome 7 years in Microsoft, in January, 2023 I've joined Red Hat as Cloud Services Black Belt to work with some technologies more aligned with my career goals.
 
-I'm experienced in Linux and open-source implementations, infrastructure, cloud computing, networking, high availability and n-tier architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation, and testing. Ability to diagnose, deploy, debug, and adapt (reconfiguration) of systems.
+I have been educating, designing, training, and building cloud solutions for a diverse and challenging set of enterprise customers. I'm experienced in Linux and open-source implementations, infrastructure, cloud computing, networking, high availability and n-tier architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation, and testing. Ability to diagnose, deploy, debug, and adapt (reconfiguration) of systems.
 
 💼 Currently I'm part of the global Red Hat Cloud Services Black Belt team working on enabling customers to be successful with Managed OpenShift on Public Cloud
 
