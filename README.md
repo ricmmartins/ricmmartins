@@ -11,7 +11,7 @@
 
 I'm experienced in Linux and open-source implementations, infrastructure, cloud computing, networking, high availability and n-tier architecture design. Always working with ownership and deep involvement in the full process life cycle, from conception and design to infrastructure implementation, instrumentation, and testing. Ability to diagnose, deploy, debug, and adapt (reconfiguration) of systems.
 
-💼 Currently I'm part of the Azure Fasttrack Engineering Team working with Cloud Infrastructure projects.
+💼 Currently I'm part of the global Red Hat Cloud Services Black Belt team working on enabling customers to be successful with Managed OpenShift on Public Cloud
 
 👍 Special interests: Cloud Technologies, Linux and OSS, DevOps, CloudOps, Reliability Engineering, Infrastructure as a Code, and Content Development.
 
