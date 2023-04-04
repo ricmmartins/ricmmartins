@@ -40,7 +40,14 @@ I'm someone passionate about building technical education that helps people adva
 <h2>⭐ GitHub Stats</h2>
 
 [![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true)](https://github.com/ricmmartins)
-https://github-readme-stats.vercel.app/api/top-langs?username=ricmmartins&show_icons=true&locale=en&layout=compact
+
+<p><img align="left" src="
+https://github-readme-stats.vercel.app/api/top-langs?username=ricmmartins&show_icons=true&locale=en&layout=compact" alt="ricmmartins" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rossalli&show_icons=true&locale=en" alt="rossalli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricmmartins&" alt="ricmmartins" /></p>
+
 
 <h2> 🤝🏻 Let's Keep in Touch </h2>
 
