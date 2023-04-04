@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="http://i.postimg.cc/8P2qc5kP/Banner.png" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge" />
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ricmmartins?style=social)
 </p>
