@@ -43,7 +43,7 @@ I'm someone passionate about building technical education that helps people adva
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ricmmartins&" alt="ricmmartins" /></p>
 
-
+<br>
 <h2> 🤝🏻 Let's Keep in Touch </h2>
 
 <p align="left">
