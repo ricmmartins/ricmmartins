@@ -1,4 +1,4 @@
-[![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR)
+<!--- [![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ricmmartins?style=social)
