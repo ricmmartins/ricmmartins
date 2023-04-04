@@ -4,7 +4,7 @@
   <img src="http://i.postimg.cc/8P2qc5kP/Banner.png" />
 </p>
 
-<p><img align="center" src="https://i.postimg.cc/8P2qc5kP/Banner.png"></p>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ricmmartins?style=social)
