@@ -3,11 +3,9 @@
 <p align="center">
   <img src="http://i.postimg.cc/8P2qc5kP/Banner.png" />
 </p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ricmmartins?style=social)
-
-
-
 
 <h2>Hi there! 👋</h2>
 
