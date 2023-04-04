@@ -1,7 +1,7 @@
 <!--- [![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR) -->
-<center>
+
+<p><img align="center" src="https://i.postimg.cc/8P2qc5kP/Banner.png" alt="ricmmartins"/></p>
 [![banner.jpg](https://i.postimg.cc/8P2qc5kP/Banner.png)](https://postimg.cc/8P2qc5kP)
-</center>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ricmmartins?style=social)
 
