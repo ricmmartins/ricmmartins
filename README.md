@@ -1,5 +1,9 @@
 <!--- [![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR) -->
 
+<p align="center">
+  <img src="http://i.postimg.cc/8P2qc5kP/Banner.png" />
+</p>
+
 <p><img align="center" src="https://i.postimg.cc/8P2qc5kP/Banner.png"></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
