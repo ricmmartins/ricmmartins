@@ -39,13 +39,6 @@ I'm someone passionate about building technical education that helps people adva
 
 ✔️ You can see a list of all my publications here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
 
-<h2>⭐ GitHub Stats</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true" alt="ricmmartins"/></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ricmmartins&" alt="ricmmartins" /></p>
-
-
 <h2> 🤝🏻 Let's Keep in Touch </h2>
 
 <p align="left">
@@ -54,6 +47,13 @@ I'm someone passionate about building technical education that helps people adva
 <a href="https://www.twitter.com/ricmmartins/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Ricardo%20Martins-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:rmmartins@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-rmmartins@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<h2>⭐ GitHub Stats</h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true" alt="ricmmartins"/></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ricmmartins&" alt="ricmmartins" /></p>
+
 
 
 <!-- ### Hi there 👋-->
