@@ -1,6 +1,6 @@
 <!--- [![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR) -->
 
-<p align="center">
+<p align="left">
   <img src="http://i.postimg.cc/8P2qc5kP/Banner.png" />
 </p>
 
