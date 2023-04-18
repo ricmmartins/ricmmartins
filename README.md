@@ -50,9 +50,9 @@ I'm someone passionate about building technical education that helps people adva
 
 <h2>⭐ GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true" alt="ricmmartins"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ricmmartins&show_icons=true" alt="ricmmartins"/>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ricmmartins&" alt="ricmmartins" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ricmmartins&" alt="ricmmartins" />
 
 
 
