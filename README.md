@@ -1,7 +1,7 @@
 <!--- [![banner.jpg](https://i.postimg.cc/1XX0wxws/banner.jpg)](https://postimg.cc/PvG8nRSR) -->
 
 <p align="left">
-  <img src="http://i.postimg.cc/8P2qc5kP/Banner.png" />
+  <img src="https://i.postimg.cc/brCW0DHk/linkedin-banner.png" />
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ricmmartins.visitor-badge)
