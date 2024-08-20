@@ -24,6 +24,7 @@ I'm a learning advocate that likes to translate knowledge, data, and information
 <h2>☑️ Here is a list my 10 most recent writings/activitites</h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
+* [AKS Learning Path](https://aks-learning.github.io/learningpath/)
 * [Azure Front Door with ARO ( Azure Red Hat OpenShift )](https://mobb.ninja/docs/aro/frontdoor/)
 * [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
 * [Intro to Azure DNS Private Resolver - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
