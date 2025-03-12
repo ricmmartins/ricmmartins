@@ -36,7 +36,7 @@ I'm a learning advocate that likes to translate knowledge, data, and information
 * [Intro to Azure Policy - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
 * [Intro to Azure Service Health - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
 
-✔️ You can see a list of all my relevant activity/contributions here: [https://github.com/ricmmartins/presentations/](https://github.com/ricmmartins/presentations/)
+✔️ You can see a list of all my relevant activity/contributions here: [https://github.com/ricmmartins/activitylog/](https://github.com/ricmmartins/activitylog/)
 
 <h2> 🤝🏻 Let's Keep in Touch </h2>
 
