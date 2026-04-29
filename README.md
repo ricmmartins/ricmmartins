@@ -26,8 +26,10 @@ I have been educating, designing, training, and building cloud solutions for a d
 | Project | Description |
 |---------|-------------|
 | 📘 **[AI for Infra](https://ai4infra.com)** | The practical handbook for infrastructure engineers entering the AI era — 220+ pages, 15 chapters, 10 troubleshooting scenarios, 3 hands-on labs |
+| 📖 **[From Server to Cluster](https://fromservertocluster.com)** | Kubernetes ebook for Linux professionals — 15 chapters bridging sysadmin skills to container orchestration |
+| ☸️ **[K8s Hackathon](https://k8shackathon.com)** | 20 hands-on Kubernetes challenges covering 100% of CKA + CKAD + CKS certification domains |
 | 🧮 **[PTU Calculator](https://ptucalc.com)** | The first public Azure OpenAI PTU Estimator — 8,400+ sessions, adopted across multiple Azure teams, Azure Government support |
-| 📗 **[Azure Governance Made Simple](https://book.azgovernance.com)** | 30 chapters, 39 policies, 20 Resource Graph queries — aligned with Cloud Adoption Framework, updated for 2026 |
+| 📗 **[Azure Governance Made Simple](https://azgovernance.com)** | 30 chapters, 39 policies, 20 Resource Graph queries — aligned with Cloud Adoption Framework, updated for 2026 |
 | 🏗️ **[Startup-Scale Landing Zone](https://startupscalelanding.zone)** | Opinionated, open-source Azure Landing Zone — featured on Ctrl+Alt+Azure podcast, delivered as workshop at Microsoft House Milan |
 | 📰 **[AKS Newsletter](https://aksnewsletter.com)** | Monthly curated AKS updates — 2,600+ subscribers, endorsed by AKS Product Group |
 | 🌐 **[Azure Digital Natives Guide](https://azdnguide.com)** | Comprehensive Azure checklist for startups — fundamentals, governance, and automation templates |
