@@ -34,6 +34,7 @@ I have been educating, designing, training, and building cloud solutions for a d
 | 📰 **[AKS Newsletter](https://aksnewsletter.com)** | Monthly curated AKS updates — 2,600+ subscribers, endorsed by AKS Product Group |
 | 🌐 **[Azure Digital Natives Guide](https://azdnguide.com)** | Comprehensive Azure checklist for startups — fundamentals, governance, and automation templates |
 | 📡 **[Azure Feed](https://azurefeed.news)** | Daily aggregated updates from Azure blogs — 4,300+ sessions in 90 days |
+| ☸️ **[AKS Learning](https://aks-learning.github.io/)** | From zero to production on Azure Kubernetes Service — 11 topics covering networking, security, observability, scaling, GitOps, AI/ML workloads, and more |
 | 🐧 **[Linux Hackathon](https://linuxhackathon.com)** | The first Linux hackathon by Microsoft — incorporated into the official [What The Hack](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/) program |
 
 ---
