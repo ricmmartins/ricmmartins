@@ -29,6 +29,7 @@ I have been educating, designing, training, and building cloud solutions for a d
 | 📖 **[From Server to Cluster](https://fromservertocluster.com)** | Kubernetes ebook for Linux professionals — 15 chapters bridging sysadmin skills to container orchestration |
 | ☸️ **[K8s Hackathon](https://k8shackathon.com)** | 20 hands-on Kubernetes challenges covering 100% of CKA + CKAD + CKS certification domains |
 | 🧮 **[PTU Calculator](https://ptucalc.com)** | The first public Azure OpenAI PTU Estimator — 8,400+ sessions, adopted across multiple Azure teams, Azure Government support |
+| 🎓 **[Azure Cert Prep](https://azurecertprep.github.io/)** | 28 hands-on challenges for AZ-104 — 100% exam coverage, break-and-fix scenarios, one-click Codespaces labs |
 | 📗 **[Azure Governance Made Simple](https://azgovernance.com)** | 30 chapters, 39 policies, 20 Resource Graph queries — aligned with Cloud Adoption Framework, updated for 2026 |
 | 🏗️ **[Startup-Scale Landing Zone](https://startupscalelanding.zone)** | Opinionated, open-source Azure Landing Zone — featured on Ctrl+Alt+Azure podcast, delivered as workshop at Microsoft House Milan |
 | 📰 **[AKS Newsletter](https://aksnewsletter.com)** | Monthly curated AKS updates — 2,600+ subscribers, endorsed by AKS Product Group |
