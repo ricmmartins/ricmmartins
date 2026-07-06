@@ -54,8 +54,6 @@ I have been educating, designing, training, and building cloud solutions for a d
 
 📋 Full activity log → **[ricmmartins/activitylog](https://github.com/ricmmartins/activitylog/)**
 
-📂 Full repo inventory → **[Organized Repository Catalog](https://gist.github.com/ricmmartins/aa847c0bb12f4df2c9c75aabe7c30341)**
-
 ---
 
 ## 🏅 Certifications
