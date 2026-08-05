@@ -44,13 +44,16 @@ I have been educating, designing, training, and building cloud solutions for a d
 
 <img align="right" alt="GIF" src="gif3.gif" width="400"/>
 
-- **40+ articles** on [Startups at Microsoft Blog](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog) covering AKS, AI infrastructure, observability, networking, and FinOps
-- **6 Microsoft Learn modules** — Azure Policy, Service Health, DNS Private Resolver, Advisor, Blueprints, Azure Red Hat OpenShift
+- **50 published articles** — 48 on [Microsoft Tech Community](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog) and 2 on All Things Azure, covering Azure, AI infrastructure, Kubernetes, reliability, networking, governance, and FinOps
+- **208K+ cumulative article views**, including publications reaching 44K, 37K, 26K, and 13K views
+- **120+ GitHub stars and 31+ forks** across open-source projects, reflecting organic adoption
+- **4 published technical books** covering AI infrastructure, Azure governance, Kubernetes, and cloud fundamentals
+- **Microsoft Learn contributor** — authored modules and contributed production resilience, observability, and KQL guidance
+- **Azure Well-Architected Framework contributor** — technical reviews covering allocation constraints and elasticity
 - **1 Microsoft Architecture Center article** — [Open-Source Jump Server on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 - **3 Microsoft Learn Collections** — Azure for AWS Professionals, AZ-305, AZ-400
 - **40+ Azure Brasil articles** on [azurebrasil.cloud](https://www.azurebrasil.cloud/) (in Portuguese)
-- **7 Kubernetes docs translations** to Brazilian Portuguese
-- **189K+ cumulative views** across all publications
+- **7 Kubernetes documentation translations** to Brazilian Portuguese
 
 📋 Full activity log → **[ricmmartins/activitylog](https://github.com/ricmmartins/activitylog/)**
 
